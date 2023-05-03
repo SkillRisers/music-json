@@ -1,0 +1,34 @@
+{
+	"songs": [{
+			"songName": "Aadha main Aadha vo",
+			"songImage": "https://c.saavncdn.com/136/Aadha-Main-Aadhi-Vo-The-Soul-Of-Bholaa-From-Bholaa-Hindi-2023-20230314193720-500x500.jpg",
+      "artistName": "B Praak",
+      "previewUrl": ""
+		},
+    {
+    "songName": "Maine pee rakhi hai",
+			"songImage": "https://pbs.twimg.com/media/FrekFlFXgAEfNAe.jpg",
+      "artistName": "Pritam,Shreya Ghoshal",
+      "previewUrl": ""
+    },
+    {
+    "songName": "Soniye Je",
+			"songImage": "https://c.saavncdn.com/504/Soniye-Je-From-Gumraah-Hindi-2023-20230314120426-500x500.jpg",
+      "artistName": "Vishal Mishra",
+      "previewUrl": ""
+    },
+    {"songName": "",
+			"songImage": "",
+      "artistName": "",
+      "previewUrl": ""
+     },
+     {
+     "songName": "",
+			"songImage": "",
+      "artistName": "",
+      "previewUrl": ""
+     },
+      
+		
+	]
+}
