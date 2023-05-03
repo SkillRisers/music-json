@@ -1,0 +1,117 @@
+{
+	"singers": [{
+			"name": "Sonu Nigam",
+			"photo": "https://i.pinimg.com/236x/e5/de/f5/e5def55ff288d58e3c261b4ed4ee1218.jpg"
+		},
+		{
+			"name": "Shaan",
+			"photo": "https://chiloka.com/i/i/s/h/a/shaan-10.jpg"
+		},
+		{
+			"name": "Neha kakkar",
+			"photo": "https://drytickets.com.au/assets/upload/750/450/60/celebrities/266-neha-kakkar.jpg"
+		},
+		{
+			"name": "Daler mehndi",
+			"photo": "https://indianewengland.com/wp-content/uploads/2017/12/Daler-Mehndi.jpg"
+		},
+		{
+			"name": "Lucky ali",
+			"photo": "https://lastfm.freetls.fastly.net/i/u/770x0/ac67e26805514190a7507f78e6b2b946.jpg"
+		},
+		{
+			"name": "Arijit singh",
+			"photo": "https://static.india.com/wp-content/uploads/2022/11/QT-arijit.jpg"
+		},
+		{
+			"name": "Sunidhi chauhan",
+			"photo": "https://www.filmibeat.com/img/popcorn/profile_photos/sunidhi-chauhan-20130814103926-124.jpg"
+		},
+		{
+			"name": "Honey singh",
+			"photo": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201603/honey-singh-story_647_031516120505.jpg"
+		},
+		{
+			"name": "Badshah",
+			"photo": "https://www.thenorthlines.com/wp-content/uploads/2019/07/Badshah.jpg"
+		},
+		{
+			"name": "Diljit Dosanjh",
+			"photo": "https://st1.bollywoodlife.com/wp-content/uploads/2016/05/diljit-dosanjh.jpg"
+		},
+    {
+			"name": "Guru Randhawa",
+			"photo": "https://i.pinimg.com/originals/ef/3b/ef/ef3bef62a7d6ba94ec6326cde468a73d.jpg"
+		},
+    {
+			"name":"Raftaar",
+			"photo": "https://c.saavncdn.com/artists/Raftaar_009_20230223100912_500x500.jpg"
+		},
+    {
+			"name": "Jubin Nautiyal",
+			"photo": "https://i.pinimg.com/736x/8a/ed/69/8aed69c409ae6cce633162e70763322e.jpg"
+		},
+    {
+			"name": "Lata Mangeshkar",
+			"photo": "https://upload.wikimedia.org/wikipedia/commons/2/2f/LataMangeshkar10.jpg"
+		},
+    {
+			"name": "Sidhu Moosewala",
+			"photo": "https://i.tribune.com.pk/media/images/Sidhu1656929841-0/Sidhu1656929841-0.jpg"
+	  },
+    {
+			"name": "Ammy Virk",
+			"photo": "https://c.sop.saavncdn.com/TMP-Episode-2-500x500.jpg"
+		},
+    {
+			"name": "Gurunam Bhullar",
+			"photo": "https://i.pinimg.com/736x/95/b3/bd/95b3bd36adbc6a77d22f13560aaf2fc6.jpg"
+		},
+    {
+			"name": "Atif Aslam",
+			"photo": "https://static.toiimg.com/photo/msid-80172462/80172462.jpg" 
+		},
+    {
+			"name": "MC Stan,
+			"photo": "https://images.news18.com/ibnlive/uploads/2023/02/mc-stan-3.jpg" 
+		},
+    {
+			"name": "Imran Khan",
+			"photo": "https://wallpaperaccess.com/full/6424971.jpg"
+		},
+    {
+			"name": "King",
+			"photo": "https://www.partymap.in/imgprof/singer-king.jpg"
+		},
+    {
+			"name": "AP Dhillon",
+			"photo": "https://yespunjab.com/wp-content/uploads/2023/01/AP-Dhillon-was.jpg"
+		},
+    {
+			"name": "B Praak",
+			"photo": "https://www.filmfare.com/awards/filmfare-awards-2020/images/nominations/best_playback_singer_male_b%20praak_%20teri%20mitti.jpg"
+		},
+    {
+			"name": "Kumar Shanu",
+			"photo": "https://images.hindustantimes.com/rf/image_size_800x600/HT/p2/2016/11/04/Pictures/kumar-sanu_24ff828a-a27b-11e6-b234-3982876c2dbb.JPG"
+		},
+    {
+			"name": "Tony Kakkar",
+			"photo": "https://i2.cinestaan.com/image-bank/1500-1500/165001-166000/165867.jpg"
+		},
+    {
+			"name": "Mikka Singh",
+			"photo": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/5/Desk/2021_5$largeimg_1910036616.jpeg"
+		},
+    {
+			"name": "Parmish Verma",
+			"photo": "https://starsunfolded.com/wp-content/uploads/2016/09/Parmish-Verma-7.jpg"
+	 },
+   {
+			"name": "Mankirt Aulakh",
+			"photo": "https://photosfile.com/wp-content/uploads/2022/02/Mankirt-Aulakh-7.jpg"
+	 },
+	]
+}
+
+
