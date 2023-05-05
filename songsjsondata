@@ -1,15 +1,15 @@
 {
-	"songs": [{
+ "results":  [{
         "songName": "Brown Munde",
 	"songImage": "https://i.scdn.co/image/ab67616d0000b273d9a129c4a656a55afff2ca02",
         "artistName": "AP Dhillon, Gminxr, ",
-         "previewUrl": ""
+        "previewUrl": " https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/84/42/bd/8442bd7f-22b9-61f1-aa8c-66ac14b6117c/mzaf_5249639735889979214.plus.aac.p.m4a"
     },
     {
-    "songName": "",
-    "songImage": "",
-     "artistName": "",
-     "previewUrl": ""
+    "songName": "Billi Billi",
+    "songImage": "https://c.saavncdn.com/348/Kisi-Ka-Bhai-Kisi-Ki-Jaan-Hindi-2023-20230427184704-500x500.jpg",
+     "artistName": "Kumaar, Sukhbir Randhawa",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/ca/cd/f6/cacdf674-9b92-e5b3-11c4-0977ba918696/mzaf_9785772069763324798.plus.aac.p.m4a"
     },
     {
     "songName": "Soniye Je",
@@ -28,6 +28,36 @@
       "artistName": "Shubh",
       "previewUrl": " https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/14/04/07/140407f3-3751-2602-6aed-09714195618e/mzaf_6087518506345363763.plus.aac.p.m4a"
      },
+     {
+     "songName": "Jhoome Jo Pathaan",
+    "songImage": "https://i0.wp.com/www.vocalnewsshahdol.com/wp-content/uploads/2022/12/20221222_144526.jpg",
+     "artistName": "Arijit Singh,Sukriti Kakar, Sheykhar",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/11/f6/ab/11f6ab9e-0562-d816-c09f-c77816ae0854/mzaf_6917426236901031345.plus.aac.p.m4a"
+     },
+     {
+     "songName": "Tere Pyaarr Mein",
+    "songImage": "https://c.saavncdn.com/367/Tere-Pyaar-Mein-From-Tu-Jhoothi-Main-Makkaar-Hindi-2023-20230203140532-500x500.jpg",
+     "artistName": "Arijit Singh, Nikhita Gandhi",
+     "previewUrl": " https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/84/36/40/84364018-d702-0a06-f75a-d4909bfa1ba6/mzaf_17143718567604625647.plus.aac.p.m4a"
+     },
+     {
+     "songName": "Kesariya",
+    "songImage": "https://c.saavncdn.com/191/Kesariya-From-Brahmastra-Hindi-2022-20220717092820-500x500.jpg",
+     "artistName": "Arijit Singh",
+     "previewUrl": " https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/fd/90/ba/fd90bab7-14cd-08d3-fb42-b93b9c0cf734/mzaf_17378359975603923771.plus.aac.p.m4a"
+     },
+     {
+      "songName": "Vikram",
+     "songImage": "https://c.saavncdn.com/973/Vikram-Tamil-2022-20220515182605-500x500.jpg",
+     "artistName": " Anirudh Ravichander",
+     "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/17/1f/ce/171fcec4-9d42-341a-5581-c9ccb0e15dab/mzaf_1982667836898239928.plus.aac.p.m4a"
+     },
+       "songName": "Kaana Pe Baal",
+      "songImage": "https://c.saavncdn.com/462/Kaana-Pe-Baal-Haryanvi-2022-20220715190853-500x500.jpg",
+      "artistName": "Amanraj Gill & Komal Chaudhary",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/97/b7/b2/97b7b244-5996-3473-1ff7-e0d4a26d99ff/mzaf_11597163982408506154.plus.aac.p.m4a"
+     {
+     }
       
 		
 	]
